@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Estadios de Fútbol</title>
+    <title>Estadios de basquet</title>
 </head>
 <body>
 
