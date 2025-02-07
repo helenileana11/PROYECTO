@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lenguajes de Programación</title>
+    <title>Lenguajes de Programación para aprender</title>
 </head>
 <body>
 
